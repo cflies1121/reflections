@@ -19,6 +19,10 @@ How do the diagrams help you visualize the branch structure?
 by allowing me to visualize the organization of git
 
 
+<<<<<<< HEAD
+=======
+this line was added no it wasnt you fool
+>>>>>>> hey
 
 
 
