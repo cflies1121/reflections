@@ -19,4 +19,12 @@ How do the diagrams help you visualize the branch structure?
 by allowing me to visualize the organization of git
 
 
+
+
+
+
+
+
+
 hey bro whats up yo!!
+
