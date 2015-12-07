@@ -13,3 +13,7 @@ by allowing you to update files and then check the final changes before you actu
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 when you want to try out a new idea or update to a program but you do now want to risk messing up the original 
+
+How do the diagrams help you visualize the branch structure?
+
+by allowing me to visualize the organization of git
