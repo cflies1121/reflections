@@ -17,3 +17,13 @@ when you want to try out a new idea or update to a program but you do now want t
 How do the diagrams help you visualize the branch structure?
 
 by allowing me to visualize the organization of git
+
+
+this line was added
+
+
+this one too
+
+
+
+
