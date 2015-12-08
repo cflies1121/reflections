@@ -18,17 +18,7 @@ How do the diagrams help you visualize the branch structure?
 
 by allowing me to visualize the organization of git
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
-<<<<<<< HEAD
-=======
-this line was added no it wasnt you fool
->>>>>>> hey
-
-
-
-
-
-
-
-hey bro whats up yo!! fool.
+The result is a new file that contains both changes in it as compared to the orginal file.
 
