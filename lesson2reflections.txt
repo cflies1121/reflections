@@ -1,4 +1,4 @@
-What happens when you initialize a repository? Why do you need to do it?
+sWhat happens when you initialize a repository? Why do you need to do it?
 
 it creates the git folder which contains all the commands to manage the repository. 
 
@@ -20,5 +20,10 @@ by allowing me to visualize the organization of git
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
-The result is a new file that contains both changes in it as compared to the orginal file.
+The result is a new file that contains both changes in it as compared to the orginal file. Because Git takes all the changes from one path and all the changes from another path and merges them together taking into account what the original file appeared to be.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+the pros are that lines of code which are obiviously different can automatically be merged, but lines of code which conflict in the changes have to be manually fixed but git does show those to you
+
 

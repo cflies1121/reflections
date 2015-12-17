@@ -1,1 +1,5 @@
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Similiar to the push auto vs manual, you may not want all changes published publicly yet and may want to keep some things experiemental.
+
 
