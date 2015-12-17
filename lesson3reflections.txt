@@ -2,4 +2,6 @@ Why might you want to always pull changes manually rather than having Git automa
 
 Similiar to the push auto vs manual, you may not want all changes published publicly yet and may want to keep some things experiemental.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
+forks are copies of repositories that are only on github and can be cloned to device, clones are exact copies of repositories from device to github and back, branches are just differenct versions of the same repository.
