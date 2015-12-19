@@ -5,3 +5,13 @@ Similiar to the push auto vs manual, you may not want all changes published publ
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 forks are copies of repositories that are only on github and can be cloned to device, clones are exact copies of repositories from device to github and back, branches are just differenct versions of the same repository.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+to be able to see the changes that where made the last time the state was updated even if no internet connection is available.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+By emailing code back and forth or just showing the other person what is going on, github would definatly be easier due to the way it allows you to merge, create, and destroy all while keeping the original the same regardless of the condition of the experimental versions
+
+
